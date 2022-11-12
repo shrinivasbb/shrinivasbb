@@ -9,7 +9,13 @@
 <br/>
 <br/>
 
-![alt text](bloggif_636fd42c147eb.gif "Logo Title Text 1") 
+Programming Languages:
+Java
+Python
+JavaScript                                      ![alt text](bloggif_636fd42c147eb.gif "Logo Title Text 1") 
+TypeScript
+ReactJS
+
 ![alt text](bloggif_636fd9892e4b1.gif "Logo Title Text 2") 
 ![alt text](bloggif_636fd42c147eb.gif "Logo Title Text 3") 
 
