@@ -8,8 +8,31 @@
 
 <br/>
 <br/>
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming Languages</div>
+<div id="main" style="display: flex; 1px solid black;;background: lightgray;">
 <div><img src="bloggif_636fd42c147eb.gif" /></div>
+  <div>
+    <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming Languages</h3>
+   <ul>
+       <p>
+         <li>Java</li>
+       </p>
+     <p>
+       <li>Python</li>
+     </p>
+ <p>
+   <li>JavaScript</li>
+     </p>
+     <p>
+        <li>TypeScript</li>
+     </p>
+    <p>
+      <li>ReactJS</li>
+     </p>
+     
+    </ul> 
+  </div>
+
+ </div>
 
 <br/>
 
