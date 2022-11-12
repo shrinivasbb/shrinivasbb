@@ -8,12 +8,11 @@
 
 <br/>
 <br/>
-<div id="main" style="display: flex; 1px solid black;;background: lightgray;">
+<div id="main" style="display: flex;background: lightgray;">
 <div><img src="bloggif_636fd42c147eb.gif" /></div>
-  <div>
-    <h3>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programming Languages</h3>
-   <ul>
-       <p>
+  <div style="display: flex;">
+    <h3>Programming Languages</h3>
+     <p>
          <li>Java</li>
        </p>
      <p>
@@ -28,13 +27,29 @@
     <p>
       <li>ReactJS</li>
      </p>
-     
-    </ul> 
   </div>
 
+  <div><img src="bloggif_636fd9892e4b1.gif" /></div>
+  <div style="content:center;">
+    <h3>Programming Languages</h3>
+     <p>
+         <li>Java</li>
+       </p>
+     <p>
+       <li>Python</li>
+     </p>
+ <p>
+   <li>JavaScript</li>
+     </p>
+     <p>
+        <li>TypeScript</li>
+     </p>
+    <p>
+      <li>ReactJS</li>
+     </p>
+  </div>
  </div>
 
-<br/>
 
-<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automation Tools Stack</div>
-<div><img src="bloggif_636fd9892e4b1.gif" /></div>
+<!--<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automation Tools Stack</div>
+<div><img src="bloggif_636fd9892e4b1.gif" /></div>-->
