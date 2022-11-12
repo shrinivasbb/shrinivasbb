@@ -14,4 +14,4 @@
 <br/>
 
 <div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automation Tools Stack</div>
-<div><img src="bloggif_636fd42c147eb.gif" /></div>
+<div><img src="bloggif_636fd9892e4b1.gif" /></div>
