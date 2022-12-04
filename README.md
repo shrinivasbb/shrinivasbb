@@ -1,3 +1,8 @@
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrinivasbb" alt="shrinivasbb" /></a> </p>
+
+
+
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on trivial will update soon 
@@ -7,9 +12,8 @@
 - 💬 Ask me about Testing tools, Frameworks and any random stuff 
 
 <br/>
+
 <br/>
-
-
 
 |Programming Languages &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|Frameworks/libraries &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|  
 | ---                 |---                 | 
@@ -22,67 +26,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![alt text](bloggif_636fd42c147eb.gif "Logo Title Text 3")&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 ![alt text](bloggif_636fd9892e4b1.gif "Logo Title Text 2") 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge"
-alt="" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shrinivasbb&show_icons=true&locale=en&layout=compact" alt="shrinivasbb" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shrinivasbb&show_icons=true&locale=en" alt="shrinivasbb" /></p>
 
 
 
-
-<!--<br/>
-<br/>
-<div style="width: 50%; display: table-row;">
-    <div style="width: 50%; float: right;">
-<img src="bloggif_636fd42c147eb.gif" />
-  </div>
-  <div style="width: 50%; float: right;">
-    <h3>Programming Languages</h3>
-     <p>
-         <li>Java</li>
-       </p>
-     <p>
-       <li>Python</li>
-     </p>
- <p>
-   <li>JavaScript</li>
-     </p>
-     <p>
-        <li>TypeScript</li>
-     </p>
-    <p>
-      <li>ReactJS</li>
-     </p>
-  </div>
-
-
- </div>
- 
- <div style="width: 50%; display: table-row;">
-    <div style="width: 50%; float: right;">
-<img src="bloggif_636fd42c147eb.gif" />
-  </div>
-  <div style="width: 50%; float: right;">
-    <h3>Programming Languages</h3>
-     <p>
-         <li>Java</li>
-       </p>
-     <p>
-       <li>Python</li>
-     </p>
- <p>
-   <li>JavaScript</li>
-     </p>
-     <p>
-        <li>TypeScript</li>
-     </p>
-    <p>
-      <li>ReactJS</li>
-     </p>
-  </div>
-
-
- </div>-->
- 
-
-<!--<div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Automation Tools Stack</div>
-<div><img src="bloggif_636fd9892e4b1.gif" /></div>-->
