@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=shrinivasbb&color=brightgreen" alt="watching_count" />
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrinivasbb" alt="shrinivasbb" /></a> </p>
 
 
