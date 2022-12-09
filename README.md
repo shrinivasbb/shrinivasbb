@@ -1,7 +1,5 @@
 <img src="https://komarev.com/ghpvc/?username=shrinivasbb&color=brightgreen" alt="watching_count" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shrinivasbb&theme=tokyonight" alt="mystreak"/>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shrinivasbb" alt="shrinivasbb" /></a> </p>
 
 
